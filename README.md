@@ -1,5 +1,5 @@
 # Hello, Rust! 🦀
-My learning path in Rust.
+Hi! This is the code and notes about my Rust learning journey!
 ## My reference
 Here some material that i've used during my journey.
 ### The Rust Programming Language - Book
